@@ -1,1 +1,4 @@
-openjdk:17.0.2-oraclelinux8
+nginx:1.23.4
+redis:6.2.12
+minio/minio:RELEASE.2023-04-13T03-08-07Z
+mysql:8.0.33
