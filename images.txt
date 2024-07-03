@@ -1,1 +1,1 @@
-docker.io/hcymysql/slowquery:2023-09-13
+nginx
